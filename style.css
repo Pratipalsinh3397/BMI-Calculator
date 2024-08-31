@@ -1,0 +1,37 @@
+html{
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(5, 175, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    /* border: 1px solid black; */
+    margin: 100px auto;
+    text-align: center;
+}
+
+.container input{
+    width: 160px;
+}
+
+.button{
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid red;
+    background-color: blueviolet;
+}
+
+#result{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-size: 18px;
+}
